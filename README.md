@@ -1,1 +1,1 @@
-# Panji-Cahyono
+# Aplikasi rekamedis sederhana
